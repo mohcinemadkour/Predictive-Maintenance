@@ -61,3 +61,24 @@ By exploring the aircraft engine’s sensor values over time, the machine learni
 
 - #### [Project Summary - Slide Decks](https://github.com/Samimust/predictive-maintenance/blob/master/Predictive%20Maintenance%20Project%20Summary.pdf)
 
+- #### [Project Data Folder](https://github.com/mohcinemadkour/Predictive-Maintenance/tree/master/data)
+
+- #### [Project Figures Folder](https://github.com/mohcinemadkour/Predictive-Maintenance/tree/master/fig)
+
+
+### Streamlit Dashboards:
+
+The project includes three interactive dashboards for data exploration, predictive diagnostics, and fleet monitoring.
+
+#### 🚢 Fleet-wide Maintenance Status (Live)
+View the global fleet health snapshot and failure forecasts live on Render.
+- **Live URL**: [https://fleet-maintenance-dashboard.onrender.com/](https://fleet-maintenance-dashboard.onrender.com/)
+
+#### 📊 Exploratory Data Analysis Dashboard (`app.py`)
+Provides a comprehensive overview of the dataset, feature correlations, and static time-series visualizations.
+- **Local Command**: `streamlit run app.py`
+
+#### 🧪 Interactive Sensor Analytics & Prediction (`interactive_sensor_app.py`)
+A specialized dashboard for high-fidelity sensor trend analysis and real-time failure prediction.
+- **Local Command**: `streamlit run interactive_sensor_app.py`
+- **Features**: Interactive Plotly charts, Cycle-level data retrieval, and real-time RUL prediction.
