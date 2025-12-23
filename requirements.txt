@@ -20,5 +20,5 @@ ipykernel>=6.0.0
 joblib>=1.1.0
 
 # Web Dashboard
-streamlit>=1.20.0
+streamlit>=1.35.0
 plotly>=5.0.0
