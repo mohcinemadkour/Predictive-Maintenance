@@ -61,6 +61,3 @@ By exploring the aircraft engine’s sensor values over time, the machine learni
 
 - #### [Project Summary - Slide Decks](https://github.com/Samimust/predictive-maintenance/blob/master/Predictive%20Maintenance%20Project%20Summary.pdf)
 
-- #### [Project Data Folder](https://github.com/Samimust/predictive-maintenance/tree/master/data)
-
-
